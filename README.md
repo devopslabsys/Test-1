@@ -3,5 +3,5 @@
 ```bash
 $ docker run nginx
 $ docker ps
-ADD ./php.ini /usr/local/etc/php/
+ADD ./index.html /usr/local/etc/php/
 ```
