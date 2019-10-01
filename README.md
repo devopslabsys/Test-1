@@ -1,2 +1,2 @@
 # Test-ITEA
-Test accaunt for cours
+$ docker run nginx
